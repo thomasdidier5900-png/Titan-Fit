@@ -1,0 +1,6 @@
+{
+  "name": "TitanFit - Suivi & Séances Musculation",
+  "description": "Application web mobile fitness responsive pour séances de musculation, minuteur de repos avec alarme, calcul de tonnage et synchronisation Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
